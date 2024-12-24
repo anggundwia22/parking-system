@@ -1,0 +1,66 @@
+# Ignore Visual Studio files
+.vs/
+.vscode/
+.idea/
+
+# Ignore build output
+/bin/
+/obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+# JetBrains Rider files
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Ignore logs
+*.log
+
+# Node.js
+node_modules/
+
+# Ignore build artifacts
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# Visual Studio for Mac
+.vscode/
+
+# NuGet package folder
+*.nupkg
+# Ignore NuGet cache
+.nuget/
+
+# DotCover
+.idea/dotCover/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+
+# ASP.NET Core and Entity Framework temporary files
+wwwroot/
+
+# Microsoft Azure Web App
+# These files are usually in the root directory of a project
+*.publishsettings
